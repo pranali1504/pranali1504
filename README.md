@@ -37,7 +37,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,nextjs,nodejs,express,mysql,mongodb,aws,git,github,tensorflow" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nextjs,express,mysql,mongodb,aws,git,github,tensorflow" />
 
 </p>
 
@@ -59,31 +59,14 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pranali1504&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranali1504&theme=tokyonight" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranali1504&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🌱 Currently Learning
 
 - AI Agents
 - Deep Learning
 - Large Language Models (LLMs)
-- System Design
-- Full Stack Development
+
 
 ---
 
