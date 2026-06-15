@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm Pranali Raikar</h1>
-<h3 align="center">AI/ML Enthusiast | Java Developer | Full Stack Learner</h3>
+<h1 align="left">👋 Hello, I'm Pranali Raikar</h1>
+<h3 align="left">AI/ML Enthusiast | Java Developer | Full Stack Learner</h3>
 
 ---
 
